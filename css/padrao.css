@@ -1,0 +1,41 @@
+.card{
+ 
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+
+#aces{
+    margin-top: 50px;
+}
+
+#textin{
+    margin-top: 70px;
+}
+
+.w-200{
+    width: 250px;
+    height: 365px;
+}
+
+#titu{
+    margin-bottom: 25px;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.cont{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.137);
+}
+
+.logo{
+display: flex;
+}
